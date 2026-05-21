@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/ubuntu/projects/StereoVisionProject/build",
+  "command": "/usr/bin/g++  -isystem /usr/local/include/opencv4 -g -std=gnu++11 -o CMakeFiles/stereo_app.dir/main.cpp.o -c /home/ubuntu/projects/StereoVisionProject/main.cpp",
+  "file": "/home/ubuntu/projects/StereoVisionProject/main.cpp"
+}
+]
